@@ -1,4 +1,3 @@
-<img width="1713" alt="截圖 2024-08-02 19 08 57" src="https://github.com/user-attachments/assets/62956861-727c-4206-bc5d-3348215c47b8"># Inline
 步驟 1：安裝 Node.js
 1. 前往 Node.js 官方網站。
 步驟 2：安裝 Visual Studio Code (VScode)
